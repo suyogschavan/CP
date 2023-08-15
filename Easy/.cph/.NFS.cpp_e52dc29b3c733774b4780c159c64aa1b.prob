@@ -1,0 +1,1 @@
+{"name":"Local: NFS","url":"c:\\Users\\Suyog_Asus\\Downloads\\CodeChef\\Easy\\NFS.cpp","tests":[{"id":1692117370811,"input":"3\n1 1 1 1\n2 1 1 1\n2 2 1 1","output":"Yes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Suyog_Asus\\Downloads\\CodeChef\\Easy\\NFS.cpp","group":"local","local":true}
