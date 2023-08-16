@@ -3,4 +3,5 @@
 /.vscode
 /output/
 .cph
-.exe
+/.exe
+LB/output/fehrenheit.exe
