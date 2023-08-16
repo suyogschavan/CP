@@ -2,3 +2,5 @@
 ./output
 /.vscode
 /output/
+.cph
+.exe
